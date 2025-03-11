@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! My name is lostwangwang.
+Hello! My name is Gang Yao.
 <!--
 **SYNCYG0710/SYNCYG0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
