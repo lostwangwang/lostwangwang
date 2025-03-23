@@ -1,5 +1,7 @@
 ### Hi there 👋
-Hello! My name is Lostwangwang.
+Hello! My name is Lostwangwang. 
+
+If you want to reach me most, please visit my blog[https://lostwangwang.github.io/], now I am planning to write my blogs. 
 <!--
 **SYNCYG0710/SYNCYG0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
